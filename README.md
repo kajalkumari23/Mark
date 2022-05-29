@@ -23,7 +23,7 @@ The source code of this project is written in Python and Tkinter.
   2. pip install Pillow
   3. pip install pandas
 ```
-    
+Check requirement.txt file.
 ## Instructions
 1. Clone Repository
 2. Open main.py and change the all paths with your system path.
@@ -34,23 +34,12 @@ The source code of this project is written in Python and Tkinter.
 7. Congratulation you are registered now your Attendance will be marked automatically by face recognition.
 
 
+## Useful links
+1. [All about project] https://docs.google.com/document/d/1hRxOGMGSP4ubJ54qRIUQ7MODGRge6OIsGMm0xIr1xkw/edit?usp=sharing
+2.  https://docs.google.com/document/d/1PHQNJzxYA9BnJnPwY93ASkqNCpn6Gd8os69Kf6qIydI/edit?usp=sharing
+3. [project video link]https://www.youtube.com/watch?v=PGtpSJwoeAk
+4. [github repo link] https://github.com/kajalkumari23/Mark
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajal-k-a217511ba//)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__kajal___/)
 
-
-## Useful links
-1. https://docs.google.com/document/d/1hRxOGMGSP4ubJ54qRIUQ7MODGRge6OIsGMm0xIr1xkw/edit?usp=sharing
-2. https://docs.google.com/document/d/1PHQNJzxYA9BnJnPwY93ASkqNCpn6Gd8os69Kf6qIydI/edit?usp=sharing
-
----------
-
-```javascript
-
-if (youEnjoyed) {
-    starThisRepository();
-}
-
-```
-
------------
