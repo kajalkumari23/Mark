@@ -42,3 +42,15 @@ The source code of this project is written in Python and Tkinter.
 ## Useful links
 1. https://docs.google.com/document/d/1hRxOGMGSP4ubJ54qRIUQ7MODGRge6OIsGMm0xIr1xkw/edit?usp=sharing
 2. https://docs.google.com/document/d/1PHQNJzxYA9BnJnPwY93ASkqNCpn6Gd8os69Kf6qIydI/edit?usp=sharing
+
+---------
+
+```javascript
+
+if (youEnjoyed) {
+    starThisRepository();
+}
+
+```
+
+-----------
